@@ -1,0 +1,12 @@
+{
+  "cssTheme": "Black",
+  "accentColor": "#52ff9d",
+  "baseFontSizeAction": true,
+  "baseFontSize": 17,
+  "textFontFamily": "Courier New",
+  "showViewHeader": false,
+  "showRibbon": false,
+  "enabledCssSnippets": [
+    "center_images"
+  ]
+}
