@@ -2,5 +2,12 @@
   "defaultViewMode": "preview",
   "rightToLeft": false,
   "newFileLocation": "current",
-  "attachmentFolderPath": "attachments"
+  "attachmentFolderPath": "attachments",
+  "pdfExportSettings": {
+    "includeName": true,
+    "pageSize": "A4",
+    "landscape": false,
+    "margin": "0",
+    "downscalePercent": 100
+  }
 }
